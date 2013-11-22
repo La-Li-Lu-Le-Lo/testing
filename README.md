@@ -12,3 +12,5 @@ This is a test.
  - Operating Systems: Linux, Windows
 
 [hyperlink][testing/README.md]
+
+[testing/README.md]: README.md
